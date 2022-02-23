@@ -1,0 +1,1279 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the King at White-Hall on Christmas-Day, 1684 Humfrey Gower ...</title>
+            <author>Gower, Humphrey, 1638-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41726</idno>
+            <idno type="STC">Wing G1459</idno>
+            <idno type="STC">ESTC R3870</idno>
+            <idno type="EEBO-CITATION">11953762</idno>
+            <idno type="OCLC">ocm 11953762</idno>
+            <idno type="VID">51484</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41726)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51484)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 815:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the King at White-Hall on Christmas-Day, 1684 Humfrey Gower ...</title>
+                  <author>Gower, Humphrey, 1638-1711.</author>
+               </titleStmt>
+               <extent>[2], 33 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Roycroft, for Robert Clavell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+                  <note>On t.p.: "Published by his Majesties special command."</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Galatians III, 21-22 --  Sermons.</term>
+               <term>Christmas sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51484:1"/>
+            <pb facs="tcp:51484:1"/>
+            <p>A
+SERMON
+Preached before the
+KING
+AT
+WHITE-HALL
+ON
+Chriſtmaſs-Day, 1684.</p>
+            <p>By <hi>H<g ref="char:V">Ʋ</g>MFREY GOWER,</hi> D. D.
+and Maſter of St. <hi>John's</hi> College in <hi>Cambridge.</hi>
+            </p>
+            <p>Publiſhed by His Majeſties ſpecial Command.</p>
+            <p>
+               <hi>LONDON,</hi>
+Printed by S. <hi>Roycroſt,</hi> for <hi>Robert Clavell</hi> at the <hi>Peacock</hi>
+at the Weſt-end of St. <hi>Pauls Church-Yard, 1685.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:51484:2"/>
+            <pb n="1" facs="tcp:51484:2"/>
+            <epigraph>
+               <q>
+                  <bibl>GALAT. III. 21, 22.</bibl>
+                  <p>Is the Law then againſt the Promiſes of God? God forbid:
+For if there had been a Law given, which could have
+given life, verily Righteouſneſs ſhould have been by the
+Law.</p>
+                  <p>But the Scripture hath concluded all under Sin, that the
+Promiſe by Faith of Jeſus Chriſt might be given to them
+that believe.</p>
+               </q>
+            </epigraph>
+            <p>WE cannot more properly celebrate the
+Memory of the <hi>Incarnation</hi> of our
+Bleſſed Lord, (the Pious purpoſe of
+our preſent Aſſembling) than by
+fixing our Meditations on the Nature; Reaſon, and
+Deſign of that moſt wonderful Undertaking and
+Condeſcenſion of the Son of God. This is a ſure
+way to ſanctifie our <hi>Feaſt,</hi> and make it truly an <hi>Holy</hi>-Day.
+Not that we are to neglect the Hiſtory: The
+bare Narrative of the thing done affords very proper
+and uſeful entertainment for this Seaſon; It refreſhes
+the Memory in all the mighty particulars of this ſtu<g ref="char:EOLhyphen"/>pendious
+Tranſaction, and ſo helps to ſettle them
+firmer in the Mind; it raiſes and warms the Fancy,
+excites and quickens the Affections of the Soul, all
+which have very conſiderable influence upon <hi>Practice.</hi>
+This is to keep Holy-day too; to liſten with the Shep<g ref="char:EOLhyphen"/>herds,
+to the Glad-tydings of the bright Ambaſſa<g ref="char:EOLhyphen"/>dour
+of Heaven, and the triumphant Melody of
+<pb n="2" facs="tcp:51484:3"/>
+the Celeſtial Choir, which aſſiſted at that Solemnity;
+then to accompany the <hi>Eaſtern</hi> Sages conducted by
+a Light held out from Heaven, to behold the place
+where the infinite Infant lay; to read the wondrous
+Hiſtory of the New-born-Babe, as it was fairly writ<g ref="char:EOLhyphen"/>ten,
+long before his Birth, in the Prophecies of the
+Old Teſtament, concerning the <hi>Tribe,</hi> the <hi>Family,</hi> the
+<hi>Name,</hi> the <hi>Place,</hi> the <hi>Time,</hi> and the <hi>Manner</hi> of the
+<hi>Nativity</hi> of Him, who was <hi>God</hi> as well as <hi>Man.</hi> All
+this is the work of the Day, and you have done it
+often, and the Church hath taken care by the Pſalms
+and Leſſons, and other parts of the <hi>proper</hi> Service,
+that it ſhould never be quite omitted.</p>
+            <p>But there is ſtill further and more lofty matter of
+Meditation in the Mercies and Myſteries of this Day:
+A Day contriv'd from all Eternity, prefigur'd from
+all Antiquity, which the <hi>Fulneſs of Time</hi> produc'd,
+which Holy Church and Holy Men in all Ages
+gladly commemorate, which Angels gaze at with
+Ecſtaſie and Rapture, and which both Men and An<g ref="char:EOLhyphen"/>gels
+ſhall eternally celebrate with ſhouts of Joy and
+everlaſting <hi>Hallelujah's.</hi> Some part of this abound<g ref="char:EOLhyphen"/>ing
+Theme is preſented to you by the words of my
+Text, in which is contain'd this principal Propoſi<g ref="char:EOLhyphen"/>tion;
+That the <hi>Law</hi> was but an Introduction, or Diſ<g ref="char:EOLhyphen"/>penſation
+preparatory to the <hi>Goſpel;</hi> and the Proof
+of it taken from the Inſufficiency of the Law to
+effect what God mainly propos'd to himſelf, the
+eternal Happineſs of Mankind. <hi>For if there had been
+a Law given, which could have given life, verily Righ<g ref="char:EOLhyphen"/>teouſneſs
+<pb n="3" facs="tcp:51484:3"/>
+ſhould have been by the Law. But the Scripture
+hath concluded all under Sin, that the Promiſe by Faith
+of Jeſus Chriſt might be given to them that believe.</hi>
+            </p>
+            <p>In the whole Argument, as it lies in theſe words,
+there are, at leaſt, four Particulars or Propoſitions:</p>
+            <p>Firſt, That Man of himſelf has no Title to Im<g ref="char:EOLhyphen"/>mortal <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+Life. This is implyed and ſuppoſed, becauſe
+God contrives a way to render him fairly capable of
+being ſaved.</p>
+            <p>Secondly, God ſincerely deſires the Life, that is,<milestone type="tcpmilestone" unit="unspecified" n="2"/>
+the Salvation of Men, and has propos'd Means re<g ref="char:EOLhyphen"/>gularly
+to Accompliſh it.</p>
+            <p>Thirdly, This was not, could not be, by the Law <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+of <hi>Moſes;</hi> But,</p>
+            <p>Fourthly, By the Grace and Mercy exhibited to <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+the World in Jeſus Chriſt; or, in the words of the
+Text, by <hi>the Promiſe,</hi> which <hi>by Faith of Jeſus Chriſt, is
+given to them that believe.</hi>
+            </p>
+            <p>As for the firſt of theſe; It is very evident, that <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+we are naturally without any plea for Eternal Life.
+The promiſe of Immortality was free unmerited
+Bounty, even to our Firſt Parents, whilſt they ſtood
+adorned with all the beauties of a ſpotleſs Innocence.
+The longeſt life of Man all ſpent in moſt unble<g ref="char:EOLhyphen"/>miſhed
+uniform Obedience to his Creators Laws
+could <hi>merit</hi> nothing at all, much leſs the ineſtimable
+reward of Everlaſting Glory. <hi>Death,</hi> indeed, is, as
+we are told,<note place="margin">Rom. 6. 23.</note> the natural and dearly earn'd <hi>wages of
+Sin,</hi> but <hi>Eternal Life</hi> is the <hi>gift of God.</hi> The firſt
+<pb n="4" facs="tcp:51484:4"/>
+and perfecteſt of our Kind could, at the beſt, be but
+an <hi>unprofitable</hi> Servant to the Infinite Maſter that he
+ſerved. Nay, it was the peculiar Privilege and Hap<g ref="char:EOLhyphen"/>pineſs
+of his Nature, that he was able to perform a
+ſteddy and perpetual Obedience to all his Creators
+Will. Therefore the <hi>Pſalmiſt</hi> prays for more de<g ref="char:EOLhyphen"/>grees
+of ſuch Spiritual Power, and pleads his being
+a Creature to move his Maker to beſtow them on
+him.<note place="margin">Pſal. 119. 73.</note> 
+               <hi>Thy hands have made me and faſhioned me; give
+me underſtanding that I may learn thy Commandments.</hi>
+Mans own Being, the excellent endowments of his
+Nature, his very Meat and Drink are liberal and
+abundant Wages for that Service, which is naturally
+due from the Creature to the Creator, and is as
+duly paid by all, Man only excepted, who yet is
+moſt obliged to it, as enjoying great Advantages,
+and even an Imperial Prerogative above all the reſt;
+as if for Him alone the whole Fabrick of Heaven
+and Earth had been produc'd.<note place="margin">Eſai. 48. 13.</note> 
+               <hi>Mine hand hath laid
+the foundation of the Earth, and my right hand hath
+ſpann'd the Heavens,</hi> ſaith the Lord by his holy Pro<g ref="char:EOLhyphen"/>phet,
+<hi>when I call unto them, they ſtand up together.</hi>
+Good reaſon, ſure, that they ſhould ſtand up, and be
+at the Call of Him, who gave them and ſupports
+them in their Being. Frogs and Locuſts, and all
+Vermin come and go, as they are commanded off
+and on by the Sovereign Word of their Almighty
+Maker. The Ravens feed one Prophet, a Lion
+tears another; but hungry and ravenous, as they
+were, thoſe Lions choſe to faſt and ſtarye rather
+<pb n="5" facs="tcp:51484:4"/>
+than hurt a third: A Fiſh ſwallows up a fourth, and
+then harmleſly reſtores him to Dry-land, and all at
+the Command of God.<note place="margin">Judg. 5. 20.</note> 
+               <hi>The Stars in their courſes
+fight againſt</hi> Siſera:<note place="margin">Pſal. 148. 8.</note> 
+               <hi>Fire and Hail, Snow and Vapour,
+and Stormy Wind are fulfilling his Word.</hi> Theſe and all
+things elſe <hi>rejoyce in his Commandment,</hi> are <hi>ready upon
+Earth when need is,</hi>
+               <note place="margin">Ecclus. 39. 31.</note> 
+               <hi>and when their time is come, they
+ſhall not tranſgreſs his Word, &amp;c.</hi> But Man, only Man,
+like a pamper'd Rebel, grown great and inſolent by
+the abus'd Indulgence of his Prince, boggled at
+the firſt and eaſieſt Trial of his Obedience, and
+proudly diſdain'd to acknowledge any Lord over
+him.</p>
+            <p>But what if he does his beſt? What has he of his
+own to offer to his God? <hi>Who hath firſt given to him,
+and it ſhall be recompenced unto him again? Adam</hi>
+himſelf had nothing but what was given him, why
+ſhould he <hi>glory</hi> then as if he <hi>had not received it?</hi> But
+then, again, what proportion is there between finite
+Performances and infinite Rewards? Nay, tho we
+undergo the ſharpeſt afflictions in the diſcharge of
+our Duties,<note place="margin">Rom. 8. 18.</note> we are to <hi>reckon</hi> with St. <hi>Paul, that the
+ſufferings of the preſent time are not worthy to be com<g ref="char:EOLhyphen"/>pared
+with the glory which ſhall be revealed,</hi> as in one
+place;<note place="margin">2 Cor. 4. 17.</note> 
+               <hi>that far more exceeding and eternal weight of
+Glory,</hi> as he expreſſeth it in another. So that it muſt
+be agreed, as a thing evident both from Scripture
+and right Reaſon, that Man has no Natural and Ori<g ref="char:EOLhyphen"/>ginal
+Title to an happy Everlaſting Life. But, yet,
+for all that, it is moſt certain that God did beſtow
+<pb n="6" facs="tcp:51484:5"/>
+on him an Immortal Soul, not with a deſign to
+deſtroy it again, but on purpoſe that he might live
+for ever with himſelf in Eternal Glory. But the
+Apoſtate <hi>Seraphim</hi> envied ſo great a Privilege to
+a <hi>New-made</hi> Creature, ſo far inferiour to himſelf, and
+Man was preſently cheated of it, ſoon tempted to
+forfeit his Inheritance by violating an eaſie Precept,
+that had been given him as a trial of his Obedi<g ref="char:EOLhyphen"/>ence
+and the Condition of all the Happineſs that was
+promiſed; which leads to the Second Propoſition
+contained in the Text.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> For to our Comfort we know, that God did not
+deſert Man, miſerable Man, fal'n, as he was, helpleſs
+and hopeleſs in himſelf, but immediately reach'd
+down his hand from Heaven, and rais'd him from
+the groveling condition wherein he lay, ſet him on
+his feet again, and bid him look up and make a new
+Adventure for a Crown of Glory. He remits the
+forfeiture of the broken Covenant, and vouchſafes
+to enter on a new Treaty with his revolted Creature,
+affording him <hi>a better Hope,</hi>
+               <note place="margin">Heb. 7. 19.</note> 
+               <hi>a better Covenant, eſta<g ref="char:EOLhyphen"/>bliſhed
+upon better Promiſes.</hi>
+               <note place="margin">Heb. 8. 9.</note> Thus was it the happineſs
+of the Creature, that God ſtill propoſed and pur<g ref="char:EOLhyphen"/>ſued,
+in all his diſpenſations towards the Sons of
+Men.</p>
+            <p>It is true, indeed, that under the Oeconomy of
+the Law the Kingdom of Heaven and Eternal Life
+were but imperfectly diſcover'd through Veils, and
+Signs, and Types, Myſteries and Metaphors, Sha<g ref="char:EOLhyphen"/>dows,
+Clouds and Darkneſs, ſuitable to the meaner
+<pb n="7" facs="tcp:51484:5"/>
+genius of that Diſcipline, which was but imperfect,
+as <hi>Euſebius</hi> expreſſeth it,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Euſeb. Dem. E<g ref="char:EOLhyphen"/>vang. lib. 1. c. 6.—<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Id. ibid.</note> and agreeable to the weak<g ref="char:EOLhyphen"/>neſs
+of that Childiſh People, who were to be ma<g ref="char:EOLhyphen"/>naged
+and conducted by it. But it is abſurd to con<g ref="char:EOLhyphen"/>clude
+from thence, That the utmoſt Felicity pro<g ref="char:EOLhyphen"/>poſed
+to the <hi>Jews</hi> was only a fat Land and a long
+Life, Milk and Hony, Peace and Plenty, and, at the
+laſt, the Burial, perhaps, of Men, but the Death of
+Bruits. If this were all, the Swine they loath'd were
+as happy as themſelves. But they were Men, a
+Nation highly favour'd and honour'd by God, far
+above all other Families of the Earth, a <hi>Peculiar</hi> and
+<hi>Choſen</hi> People, to whom <hi>were committed the Oracles of
+God;</hi> and to whom pertained <hi>the Adoption, and the
+Glory, and the Covenants, and the giving of the Law,
+and the Service of God, and the Promiſes: whoſe are the
+Fathers, and of whom, as concerning the Fleſh, Chriſt
+came.</hi> They were our Elder Brothers, as it were,
+and the Firſt-born of the World; and that Inhe<g ref="char:EOLhyphen"/>ritance,
+which we now all ſo happily enjoy in com<g ref="char:EOLhyphen"/>mon,
+ſeemed, for a good while, to be entail'd only
+on the Houſe of <hi>Jacob.</hi>
+            </p>
+            <p>The very Points in controverſie between the <hi>Pha<g ref="char:EOLhyphen"/>riſees</hi>
+and the <hi>Sadduces</hi> ſufficiently prove, that the
+Expectations of another Life had been of old re<g ref="char:EOLhyphen"/>ceiv'd
+and entertain'd by that People. And our
+Saviour put to ſilence thoſe that ventur'd to deny it,
+by a plain proof of the Matter drawn from the very
+<hi>Pentateuch,</hi> that ſmall Portion of Scripture, which
+the <hi>Sadduces</hi> would own for Authentick Canon.
+<pb n="8" facs="tcp:51484:6"/>
+Many places there are in the Books of the <hi>Prophets,</hi>
+which cannot receive a full Interpretation without
+the ſuppoſition of a Future State, amongſt which
+<hi>Prophyrie</hi> himſelf cannot hinder, but that of <hi>Daniel</hi>
+will ſtill be one:<note place="margin">Dan. 12. 2, 3.</note> 
+               <hi>Many of them that ſleep in the Duſt
+ſhall awake, ſome to Everlaſting Life, and ſome to Shame
+and Everlaſting Contempt;</hi>
+               <note place="margin">
+                  <hi>St. Aug.</hi> de Civ. Dei, lib. 20. c. 23.</note> to which, as the Father
+obſerves, our Saviour makes a juſt Parallel in thoſe
+words:<note place="margin">John 5. 28, 29.</note> 
+               <hi>All that are in the Grave ſhall hear his Voice,
+and ſhall come forth; they that have done good unto the
+Reſurrection of Life, and they that have done evil to the
+Reſurrection of Damnation.</hi> The famous Petition of
+the Thief on the Croſs, and our Saviours gracious
+Reply to it, together with many plain and direct
+Paſſages in <hi>Joſephus</hi> and the moſt Ancient <hi>Rabbins,</hi>
+concerning a Future Felicity for the <hi>Pious,</hi> and
+Miſery for <hi>Irreligious</hi> Perſons, put it out of all doubt,
+that the Doctrine of a Future Life was far from
+being ſo ſtrange and unreceiv'd a Thing amongſt
+the <hi>Jews,</hi> as ſome would repreſent it. We need not
+therefore wonder to find in the Catalogue of <hi>Old
+Teſtament-Saints,</hi> recorded in the Epiſtle to the
+<hi>Hebrews;</hi>
+               <note place="margin">Heb. 11. 35.</note> 
+               <hi>Many that were tortured, not accepting deli<g ref="char:EOLhyphen"/>verance,
+that they might obtain a better Reſurrection.</hi>
+But then theſe gracious Purpoſes of God for our
+Eternal Good were far more illuſtriouſly manifeſted
+in the Goſpel, through which Chriſt <hi>hath brought
+Life and Immortality to light.</hi>
+               <note place="margin">
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 1. 10.</note> And that makes way
+for our Third Propoſition.</p>
+            <p>
+               <pb n="9" facs="tcp:51484:6"/>
+That the Life intended for, and propoſed to man <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+could not be obtain'd by the Law of <hi>Moſes;</hi> and
+therefore all muſt be devolv'd on the <hi>Fourth,</hi> the
+Mercy and <hi>Promiſe of God, which, by Faith of Jeſus
+Chriſt is given to them that believe.</hi> I need not lead
+you from the <hi>Text</hi> or <hi>Chapter,</hi> of which it is a part,
+to find abundant proof of the Impotency of the
+Law of <hi>Moſes:</hi> It is the Argument almoſt of every
+<hi>Verſe.</hi>
+               <note place="margin">Verſe 10, 11.</note> 
+               <hi>As many as are of the Works of the Law are under
+the Curſe. No Man is juſtified by the Law in the ſight of
+God.</hi> The ſame had been avouch'd twice or thrice
+in the former <hi>Chapter.</hi>
+               <note place="margin">Chap. 2. 16.</note> It is needleſs to allege more
+Teſtimonies of the Truth of a thing ſo evident.
+It is the Argument not only of this <hi>Epiſtle,</hi> but, in
+a manner, of the whole Book of God: It is the
+very Foundation of the <hi>Goſpel:</hi> If it be otherwiſe,
+<hi>Chriſt died in vain,</hi>
+               <note place="margin">Heb. 8. 2.</note> 
+               <hi>and our Faith is vain. For if that
+firſt Covenant had been faultleſs, there ſhould no place
+have been ſought for the ſecond.</hi>
+            </p>
+            <p>Here therefore happily begins our <hi>Fourth</hi> Parti<g ref="char:EOLhyphen"/>cular,<milestone type="tcpmilestone" unit="unspecified" n="4"/>
+the Oeconomy of the <hi>Goſpel.</hi>
+               <note place="margin">Rom. 11. 32.</note> 
+               <hi>For God hath
+concluded all under <g ref="char:V">Ʋ</g>nbelief, that he might have mercy
+upon All:</hi> Or in the words of my <hi>Text, The Scripture
+hath concluded all under Sin, that the Promiſe by Faith
+of Jeſus Chriſt might be given to them that believe.</hi>
+There was no room for Repentance, for ſecond
+Thoughts, allowed by the Tenour of the former
+Covenants: <hi>In the day thou eateſt thereof thou ſhalt
+ſurely die.</hi> That was the unrelenting Rigour of the
+<hi>firſt</hi> Law; and the rigid Condition of the Law of
+<pb n="10" facs="tcp:51484:7"/>
+               <hi>Moſes</hi> is carefully remembred by the <hi>Apoſtle</hi> in this
+Chapter:<note place="margin">Gal. 3. 10.</note> 
+               <hi>Curſed is every one that continueth not in all
+things, which are written in the Book of the Law to do
+them.</hi> A very uncomfortable and frightful Sanction
+it is, ſufficient, of it ſelf, to repreſent that Law as a
+<hi>Schoolmaſter,</hi> as it is ſtil'd, qualified not only to <hi>bring,</hi>
+but to <hi>drive</hi> us unto <hi>Chriſt.</hi>
+            </p>
+            <p>Thanks be therefore to God through <hi>Jeſus Chriſt</hi>
+our Lord, who by the propitious Myſtery of <hi>this
+Day,</hi> and the ſaving Conſequences of it, <hi>hath re<g ref="char:EOLhyphen"/>deemed
+us from the Curſe of the Law,</hi> Himſelf <hi>being
+made a Curſe for us;</hi> who did all that could be re<g ref="char:EOLhyphen"/>quir'd
+in the greateſt Rigour, and yet ſuffer'd too the
+greateſt; that we, who of our ſelves could do
+nothing, as we ought to do, might yet ſuffer no<g ref="char:EOLhyphen"/>thing;
+but, being by him enabled to <hi>do all things,</hi>
+may be made <hi>Heirs,</hi> even <hi>joynt Heirs</hi> with himſelf of
+Eternal Glory. And this it is, that makes up our
+preſent Rejoycing. The <hi>Birth</hi> of Chriſt was the
+<hi>Death</hi> of the Law: For He was <hi>the End of the Law,</hi>
+and put an end to it alſo, as it is taken in competition
+with the <hi>Goſpel.</hi>
+            </p>
+            <p>For we well know that it is not always ſo, and
+therefore can eaſily reconcile thoſe different and
+contrary Accounts, which are given of it in the New
+Teſtament.</p>
+            <p>As it is conſidered abſolutely in it ſelf, without
+regard and ſubordination to our Bleſſed Lord, who
+gives ſtrength for the fulfilling of the <hi>Moral</hi> part of
+it, and is the ſubſtance and accompliſhment of the
+<pb n="11" facs="tcp:51484:7"/>
+               <hi>Ceremonial;</hi> it is repreſented full of Terrors as to
+Man, and under Characters of Diſparagement and
+Diminution to it ſelf. Thus it is ſaid to be <hi>aboliſhed</hi>
+and <hi>diſannull'd,</hi> that it was but <hi>until John;</hi> that it <hi>was
+given by Moſes,</hi> who <hi>was faithful,</hi> but <hi>as a Servant;</hi>
+whereas <hi>Grace and Truth came by Jeſus Chriſt,</hi> who is
+<hi>Lord</hi> and <hi>Heir</hi> of all things: That it <hi>ſtops</hi> every
+<hi>Mouth,</hi> and makes all the World become <hi>guilty before
+God;</hi> that it cannot <hi>Juſtifie</hi> or make Righteous: It is
+not only reflected on as a leſs <hi>excellent Miniſtry,</hi> a
+<hi>Covenant</hi> not <hi>faultleſs, unprofitable, decayed, waxen old,
+a Shadow,</hi> and <hi>vaniſhing</hi> away; but it is likewiſe
+ſeverely cenſured as an <hi>unſupportable Yoak,</hi> and that
+which worketh <hi>Wrath</hi> and <hi>Death:</hi> It is ſaid indeed to
+be <hi>weak;</hi> but for all that we are told, that it is the
+<hi>ſtrength of Sin,</hi> a <hi>Letter that killeth,</hi> and <hi>the Miniſtra<g ref="char:EOLhyphen"/>tion</hi>
+of <hi>Condemnation</hi> and <hi>Death;</hi> that it is a <hi>Curſe</hi>
+and <hi>Emnity,</hi> which <hi>Chriſt aboliſhed and ſlew,</hi> the <hi>oldneſs
+of the Letter,</hi> and <hi>dead;</hi> that there was <hi>made of neceſ<g ref="char:EOLhyphen"/>ſity
+a change of the Law,</hi> and accordingly that <hi>we are
+not</hi> now <hi>under the Law, but under Grace.</hi> At this rate
+is it expos'd and viliſied, when conſider'd as oppoſite
+to, or diſtinct in part or in whole from the Diſpen<g ref="char:EOLhyphen"/>ſation
+of the <hi>Goſpel.</hi>
+            </p>
+            <p>But there is another view of it, and a much better
+proſpect, when it is repreſented as it was intended
+to be a Diſpenſation preparatory and ſubordinate
+to the <hi>Goſpel;</hi> A Law of Life and Manners, im<g ref="char:EOLhyphen"/>prov'd,
+fulfil'd and enforced by our Saviour, who
+plentifully furniſheth out Grace and Strength, to enable
+<pb n="12" facs="tcp:51484:8"/>
+us to live up to the Precepts of it in an <hi>Evangelical</hi>
+Perfection. And thus it will ſoon appear, that the
+<hi>Law</hi> is not <hi>againſt the Promiſes of God,</hi> according to
+my Text. For we find our Bleſſed Saviour making
+a ſolemn and very early Proteſtation, even in his firſt
+Sermon, that he came <hi>not to deſtroy, but to fulfil the
+Law,</hi> that not a <hi>jot</hi> of it ſhould be unfulfill'd; that
+it is eaſier for <hi>Heaven and Earth to paſs away,</hi> than <hi>one
+tittle of the Law to fail.</hi> And St. <hi>Paul</hi> eſtabliſh'd the
+<hi>Chriſtian</hi> Faith by <hi>the Law of Moſes,</hi> as well as by <hi>the
+Prophets;</hi> and thus now <hi>the Doers of the Law ſhall be
+juſtified;</hi> and we read often of the <hi>Righteouſneſs of
+the Law,</hi> and that it is not made <hi>void through Faith:
+God forbid,</hi> ſaith St. <hi>Paul, yea, we eſtabliſh the Law.</hi>
+And thus <hi>the Law is holy, and the Commandment holy,
+and juſt and good.</hi> Thus too it is <hi>Spiritual,</hi> to be
+delighted in, a Commandment <hi>ordain'd unto Life,</hi>
+and a means <hi>to bring us unto Chriſt.</hi> King <hi>David</hi>
+himſelf, who compoſed ſo many Hymns on pur<g ref="char:EOLhyphen"/>poſe
+to celebrate and adorn the <hi>Law,</hi> and that long
+<hi>Alphabetical Octonary,</hi> the <hi>119th Pſalm,</hi> on that ſingle
+Subject, could not ſay more in honour of it, than
+what I have already, or may further be alledged
+for that purpoſe, from the Scriptures of the New-<hi>Teſtament.</hi>
+But then the <hi>Law</hi> is underſtood to be a
+kind of <hi>Goſpel,</hi> a Diſpenſation typical and ſignifica<g ref="char:EOLhyphen"/>tive
+of <hi>Chriſt:</hi> According to what the Great Father
+tells us<note n="*" place="margin">Quid eſt enim quod dicitur Teſtamentum Vetus niſi oc<g ref="char:EOLhyphen"/>cultatio Novi? Et quid eſt aliud quod di<g ref="char:EOLhyphen"/>citur Novum niſi Veteris revelatio? <hi>St.</hi> Aug. <hi>de Civ. Dei, l. 16. f. 26.</hi>
+               </note>, That the <hi>Law</hi> was but the <hi>Goſpel</hi> mask'd, and
+the <hi>Goſpel</hi> nothing elſe but the <hi>Law reveal'd.</hi> Indeed
+the whole <hi>Old Teſtament,</hi> in a manner, is a <hi>Myſterious</hi>
+               <pb n="13" facs="tcp:51484:8"/>
+Shadow, a <hi>Prophetical</hi> and <hi>Figurative</hi> Repreſentation
+of the <hi>New:</hi> Which ſome obſerving, and finding
+what excellent uſe our Saviour and his Apoſtles made
+of the <hi>Hiſtory</hi> and <hi>Prophecies</hi> of the one <hi>Teſtament</hi>
+to confirm and illuſtrate the Doctrines of the <hi>other;</hi>
+have indulged ſo long and unwarily to the con<g ref="char:EOLhyphen"/>temptation
+of the <hi>Allegorical,</hi> that they have quite
+neglected, and, at laſt, utterly loſt and even re<g ref="char:EOLhyphen"/>nounc'd
+the firſt and <hi>Literal</hi> Sence. But this is an
+unreaſonable affection of an extravagant and ſot<g ref="char:EOLhyphen"/>tiſh
+Extreme.</p>
+            <p>It was the infinite Wiſdom and Power of God,
+that ſo contriv'd, ordered, and overrul'd Affairs in
+the firſt Ages of the World, that they might aptly
+prelude, typifie, and repreſent that great Under<g ref="char:EOLhyphen"/>taking,
+which he was to ſet on foot in the latter
+Times. Hereby making the Age of the <hi>Patriarchs</hi>
+and the <hi>Law,</hi> but a long Preface or Introduction to
+that of the <hi>Goſpel.</hi> Indeed, to ſpeak properly, we
+are to Date the <hi>Goſpel</hi> from the time of the firſt
+Publication of it, which was immediately after the
+Fall, as we all know: From that happy Moment all
+the hopes of Heaven, of a future Endleſs Life of
+Bliſs depended wholly on the Birth and Death of
+the <hi>Meſſias.</hi> Chriſtianity therefore commenced a<g ref="char:EOLhyphen"/>bout
+Four Thouſand Years before the firſt <hi>Chriſtmas,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Euſeb. Dem. Evang. l. 1. c. 8. Il <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+I mean, before the actual <hi>Incarnation</hi> and <hi>Nativity</hi> of
+the Son of God. It is then no Novel and Upſtart
+Doctrine, not a Modern or New invented Diſcipline;
+but far the moſt Ancient, the <hi>Senior</hi> Religion of the
+World.</p>
+            <p>
+               <pb n="14" facs="tcp:51484:9"/>
+Almighty God, for wiſe and weighty Purpoſes,
+did not think fit to put the <hi>Goſpel Diſpenſation</hi> pre<g ref="char:EOLhyphen"/>ſently
+in practice, with all the <hi>Power</hi> and <hi>Demonſtra<g ref="char:EOLhyphen"/>tion,</hi>
+all the Luſtre and Advantages, with which, in
+the <hi>Fulneſs of time,</hi> it was to appear and be recom<g ref="char:EOLhyphen"/>mended
+to the World. This Delay left room for
+many previous Paſſages and a preparative Diſpen<g ref="char:EOLhyphen"/>ſation,
+which did help to introduce the <hi>Goſpel</hi> with
+the more efficacy and glory. Hence we have great
+confirmation of our Faith from many and plain
+<hi>Prophecies,</hi> whereby we are enabled effectually to
+ſilence and ſhame both the <hi>Jewiſh</hi> and <hi>Heathen</hi> Ad<g ref="char:EOLhyphen"/>verſaries
+of our <hi>Faith.</hi> For none now can reſiſt the
+force and clearneſs of the Evidence, that ariſeth
+thence; but ſuch who wilfully ſhut their Eyes, and
+<hi>chuſe Darkneſs rather than Light:</hi> It is to the great
+advantage of the <hi>Goſpel,</hi> that it ſucceeds the bur<g ref="char:EOLhyphen"/>denſom
+Oeconomy of the <hi>Law,</hi> the <hi>Pedagogy</hi> of
+which Diſcipline ſets off the grace and ſweetneſs of
+that Liberty, with which Chriſt hath made us <hi>free.</hi>
+But tho the <hi>Meſſias</hi> was not preſently to appear; yet
+the Providence of God ſo order'd it, that almoſt
+every great Thing that hapned after the Fall ſhould
+conduce to make up a more ſolemn <hi>Apparatus</hi> and
+Sacred Pomp, as it were, to Uſher-forth the Great
+<hi>Bridegroom</hi> out of his <hi>Chamber,</hi> and introduce him
+into the World.</p>
+            <p>The two firſt Notable Periods are from Mans
+baniſhment out of <hi>Paradiſe</hi> to the time of the <hi>Flood,</hi>
+and from thence to the giving of the <hi>Law.</hi> In the
+<pb n="15" facs="tcp:51484:9"/>
+former, Mankind had many ſad Proofs and Expe<g ref="char:EOLhyphen"/>riences
+of the corruption of their own Natural
+Inclinations, and conſequently of the great Neceſ<g ref="char:EOLhyphen"/>ſity
+of a Saviour. Whilſt Almighty God thus <hi>in
+times paſt ſuffer'd all Nations to walk in their own ways,</hi>
+as St. <hi>Paul</hi> and <hi>Barnabas</hi> told the Men of <hi>Lyſtra, he
+left not himſelf without Witneſs,</hi> though they were
+<hi>without Excuſe,</hi> but ſent unto them <hi>Enoch</hi> and <hi>Noah,</hi>
+and other Preachers of Righteouſneſs: ſo that their
+Condemnation was moſt juſt, and <hi>Death reigned from</hi>
+Adam <hi>unto</hi> Moſes, <hi>over them that had not ſinned after
+the ſimilitude of</hi> Adams <hi>Tranſgreſſion.</hi> This was ſo
+Evangelical a Work, that St. <hi>Peter,</hi> according to a
+well grounded Interpretation of that ſomewhat
+obſcure place, ſeems to aſcribe it to Chriſt himſelf,
+who, by the Spirit, <hi>went and preached</hi> unto thoſe that
+<hi>were diſobedient, when the Long-ſuffering of God waited
+in the days of</hi> Noah. Indeed Repentance, and
+Mercy, and pardon of Sins were the peculiar Con<g ref="char:EOLhyphen"/>ditions
+of the <hi>Goſpel;</hi> Therefore it was very fit that
+thoſe gracious Indulgences ſhould be tender'd to the
+World by the Author of the <hi>Goſpel,</hi> the <hi>Mediator</hi> of
+that <hi>Covenant,</hi> even the Holy One of God: But
+this bountiful Offer was obſtinately rejected by that
+obdurate and irreclaimable Age. Upon this the
+Divine Juſtice proceeded to the long threatned
+Judgment, opened the Floodgates of Heaven, and
+ſhowred down Vengeance on the Rebellious World,
+in a Deluge of <hi>Waters,</hi> as he will, one day, of <hi>Fire,</hi> on
+unrepenting Sinners.</p>
+            <p>
+               <pb n="16" facs="tcp:51484:10"/>
+This was a ſerious and ſad Period, and muſt not
+paſs without a new Intimation of a Saviour. And
+accordingly we learn from St. <hi>Peter,</hi>
+               <note place="margin">Pet. 3. 21.</note> that the <hi>Ark</hi>
+floating on the ſurface of the Waters, and ſo pre<g ref="char:EOLhyphen"/>ſerving
+Eight Perſons from the Common Ruine, was
+an early <hi>Type</hi> of Chriſtian <hi>Baptiſm,</hi> by which we are
+initiated into the <hi>Church,</hi> ſignified by that <hi>Ark,</hi>
+which contain'd in it all the Church God then had
+in the World. He had deſtroyed the Enemies of
+this Little Flock by a mighty Ruine. And ſo will
+it happen, but more eminently and compleatly, in
+the <hi>Antitype.</hi> None will eſcape the All-devouring
+Gulph, not of periſhing Waters, but of unquench<g ref="char:EOLhyphen"/>able
+Fire, but thoſe only that get into the <hi>Ark</hi> of
+God, or, at leaſt, put no wilful Obſtacle or Bar
+againſt their admiſſion thereinto. This Parallel of
+the <hi>Ark</hi> and the <hi>Church,</hi> together with the Doctrine
+that attends it, runs through the Writings of many
+of the Ancient <hi>Fathers;</hi> but I muſt not ſtay to
+trace it, or to lament, that ſo important a Point is
+no more conſider'd than it ſeems to be in this
+Age.</p>
+            <p>The next remarkable Adventure we meet with, is
+that of <hi>Babel,</hi> a fit Emblem (and ſo received by the
+Church) of what was afterwards tranſacted at <hi>Jeru<g ref="char:EOLhyphen"/>ſalem.</hi>
+For as God then by dividing the <hi>Languages</hi>
+of the daring Builders, blaſted the inſolent Attempt
+of that Rebellious Crew; ſo did He at the Feaſt of
+<hi>Pentecoſt,</hi> by <hi>Cloven</hi> and Divided <hi>Tongues,</hi> another
+wonderful multiplication of Languages, baffle and
+<pb n="17" facs="tcp:51484:10"/>
+confound the combined Oppoſition of <hi>Jews</hi> and
+<hi>Gentiles,</hi> againſt himſelf and his Holy Child <hi>Je<g ref="char:EOLhyphen"/>ſus.</hi>
+            </p>
+            <p>In the next place I may mention to you thoſe
+two famous Types and Forerunners of Chriſt and
+the Chriſtian Faith, <hi>Melchiſedek</hi> and <hi>Abraham; One</hi>
+of which bore the expreſs Character of our Savi<g ref="char:EOLhyphen"/>our's
+Perſon; and the Adventures of the <hi>Other,</hi> toge<g ref="char:EOLhyphen"/>ther
+with thoſe of his Family, made up a long
+and large Exemplification of his Life and Doctrine.
+<hi>Abraham</hi> deſired to ſee the Day of the <hi>Meſſias, and he
+ſaw it and was glad:</hi>
+               <note place="margin">John 8. 56.</note> Here then we have a <hi>Chriſtmaſs</hi> in
+the Old <hi>Teſtament.</hi> For <hi>Abraham</hi> ſaw <hi>this Day</hi> and
+kept it <hi>holy:</hi> The Feaſt (it ſeems) rejoyc'd the Heart
+of that Great and Religious Prince. He receiv'd
+an explicit Promiſe of the <hi>Meſſias,</hi>
+               <note place="margin">Gen. 12. 3. 18. 18. 22. 18.</note> and that more
+than once, and had a Revelation made to him of the
+<hi>Goſpel-ſtate.</hi> This was that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which the
+<hi>Apoſtle</hi> refers to,<note place="margin">Galat. 3. 8.</note> when he tells us, That <hi>the Scripture,
+foreſeeing that God would juſtifie the Heathen through
+Faith, preached before the Goſpel unto</hi> Abraham, <hi>ſaying,
+In thee ſhall all Nations be bleſſed.</hi> Thus did <hi>Abraham</hi>
+become the Great <hi>Patriarch</hi> of the Chriſtian Faith,
+<hi>the Father of the Faithful,</hi> an Honour not unworthy
+the Friend of God, as he is ſtil'd by God him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <p>The Types are ſtill plainer as you deſcend lower;
+As in <hi>Iſaac his Son, his only Son,</hi> as he is ſtil'd, the Son
+<hi>whom he loved,</hi> the Son of the <hi>Promiſe,</hi> born by
+Prophecy, the Prediction of an Angel, of a Womb
+<pb n="18" facs="tcp:51484:11"/>
+that was dead, as was that of <hi>Sarah;</hi> then led to
+death with his <hi>Typical Croſs</hi> on his back, to be Sacri<g ref="char:EOLhyphen"/>ficed
+near the very place, where his great <hi>Archetype,</hi>
+our bleſſed Redeemer, was afterwards actually Sacri<g ref="char:EOLhyphen"/>ficed
+upon the Croſs. The Day as well as your Pa<g ref="char:EOLhyphen"/>tience
+would fail me, if I ſhould tell of <hi>Sarah</hi> and
+<hi>Hagar,</hi> and the Twelve <hi>Patriarchs.</hi> Indeed, the whole
+ſucceſſion of this Family ſeems deſigned for ſo many
+<hi>Types</hi> and <hi>Symbols</hi> of the <hi>Meſſias</hi> and the <hi>Goſpel-ſtate.
+Jacob</hi> and <hi>Eſau</hi> in the Womb, and ſeveral Paſſages of
+their Lives ſignified that Great Event, which was to
+come to paſs in After-times, that the <hi>Younger</hi> ſhould
+be prefer'd before the <hi>Elder,</hi> the <hi>Gentile</hi> ſhould get
+the Bleſſing from the <hi>Jew;</hi> the very thing we hap<g ref="char:EOLhyphen"/>pily
+experience at this Day. There was a famous
+Viſit of Angels, as they are ſtil'd, made to <hi>Abraham</hi>
+long before this, which I might have remembred
+to you; of which, One is univerſally concluded to
+be the Son of God; even He of whom afterwards
+it is ſaid,<note place="margin">Gen. 19. 24. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Jehovah</hi> from <hi>Jehovah, the Lord from the Lord
+rained upon</hi> Sodom <hi>and</hi> Gomorrha <hi>Brimſtone and Fire
+out of Heaven.</hi> And that Fire and Brimſtone, that
+<hi>Sodom</hi> and <hi>Gomorrha</hi> are Types ſadly and certainly
+ſignificative of that Infernal Lake of Fire and Brim<g ref="char:EOLhyphen"/>ſtone,
+which ſhall Eternally burn all thoſe that
+reſiſt the merciful Overtures and Manifeſtations of
+the Goſpel. The famous Wreſtling of <hi>Jacob</hi> with
+the Angel, interpreted by the Ancients to be the Son
+of God, ſerv'd as a Type of <hi>Chriſt</hi>'s Sufferings and
+Temptations. <hi>Joſeph</hi> was another remarkable <hi>Type</hi>
+               <pb n="19" facs="tcp:51484:11"/>
+of <hi>Chriſt,</hi> appears by his Bloody Coat, his Inno<g ref="char:EOLhyphen"/>cence,
+his Chaſtity, his Sufferings, his Advancement
+unto Honour, and his Feeding of the People.</p>
+            <p>And now we are come within view of the So<g ref="char:EOLhyphen"/>journing
+of the Children of <hi>Iſrael</hi> in <hi>Egypt,</hi> and
+their Slavery there, a Subject which makes up a
+conſiderable part of the <hi>Old Teſtament,</hi> and is copi<g ref="char:EOLhyphen"/>ouſly
+inſiſted on in the <hi>New,</hi> for the Hiſtory and
+<hi>Myſtical</hi> Interpretation of it.</p>
+            <p>I do not pretend to lay down the Reaſons of
+Divine Wiſdom in ſingling out one Family of the
+whole World, for the Object of his greateſt Mer<g ref="char:EOLhyphen"/>cies,
+and his ſevereſt Judgments. Such Speculations
+are apt to tempt Men to venture too far, and to a
+too curious Examination of the Methods and Mo<g ref="char:EOLhyphen"/>tives
+of Gods Wiſdom in the Adminiſtration of the
+World. That's an Attribute out of our reach:
+Whatever Appeal he hath been pleaſed to make
+to us concerning the <hi>Juſtice</hi> and Equity of his
+Ways, I do not find, that he ever ſubmitted his <hi>Wiſdom</hi>
+to the Trial and Judgment of a Man. But thus it
+actually was in the Caſe before us. All Mankind
+were equally the Sons of God; but amongſt all
+theſe it pleaſed him to pitch on the Houſe of <hi>Jacob,</hi>
+to make it a Sign and an Example to the reſt of Men.
+Upon theſe, on certain Conditions, he heaps mighty
+and miraculous Mercies; and upon theſe, when
+highly provok'd, he poureth forth his Vengeance in
+dreadful and ſtupendious Judgments. The Account
+of this their diverſe and double Condition makes up
+<pb n="20" facs="tcp:51484:12"/>
+the greateſt part of the Hiſtory and Prophecies of
+the <hi>Old Teſtament.</hi> The <hi>New</hi> gives us an account of
+the laſt Attempt of Heaven to reclaim that People,
+and of their laſt concluding Provocation, the Mur<g ref="char:EOLhyphen"/>der
+of their <hi>Meſſias;</hi> which, as it was foretold, by
+filling up the Meaſure of their Sins, ripened them for
+that woful Final Deſolation of their People, Govern<g ref="char:EOLhyphen"/>ment,
+City and Temple, which had been long before
+predicted by the <hi>Prophets,</hi> and was then more ex<g ref="char:EOLhyphen"/>preſly
+foretold and denounc'd by <hi>Chriſt</hi> and his
+<hi>Apoſtles.</hi> All which ruine, the <hi>Romans,</hi> in Gods ap<g ref="char:EOLhyphen"/>pointed
+time, brought upon that Devoted People;
+and the World, at this Day, with aſtoniſhment be<g ref="char:EOLhyphen"/>holds,
+to which that forlorn Nation hath been for
+this <hi>Sixteen Hundred Years</hi> a Mocking, an Hiſſing, a
+By-word and an Abomination.</p>
+            <p>This was the People, that long continued the <hi>Type</hi>
+and <hi>Emblem</hi> of the <hi>Chriſtian</hi> Church: And a little
+Conſideration will enable us to expound and apply
+to our ſelves the ſeveral Diſpenſations of God to
+them. The <hi>Devil</hi> is the afflicting <hi>Pharaoh;</hi> our
+<hi>Luſts</hi> and <hi>Sins</hi> the <hi>Taskmaſters</hi> and <hi>Bondage.</hi> The
+<hi>Blood</hi> of Chriſt is the <hi>Red Sea;</hi> Redemption to us,
+but Ruine to the Devil and his Inſtruments. <hi>Moſes</hi>
+and <hi>Joſhuah</hi> did evidently Perſonate our <hi>Jeſus,</hi> that
+conducts us to the Land of <hi>Canaan,</hi> the Heavenly
+<hi>Jeruſalem;</hi> through the Wilderneſs of the World.
+He is the <hi>Rock</hi> that is ſmitten for us, and ſupporteth
+us in our Journey. He is the <hi>Brazen Serpent</hi> lifted
+up on <hi>High</hi> on the <hi>Croſs,</hi> to Cure us of all the
+<pb n="21" facs="tcp:51484:12"/>
+venemous and malignant bitings of the <hi>Old Ser<g ref="char:EOLhyphen"/>pent.</hi>
+            </p>
+            <p>But, before we had brought the <hi>Iſraelites</hi> thus far
+on this their <hi>Myſtical</hi> March, we might have ob<g ref="char:EOLhyphen"/>ſerved
+the <hi>Blood ſprinkled on the Poſts of their Doors,</hi>
+to ſecure them from the Stroak of the <hi>Deſtroying
+Angel;</hi> as likewiſe their <hi>Paſchal Lamb,</hi> of which not
+a <hi>Bone</hi> muſt be <hi>broken</hi> any more than of <hi>the Lamb of
+God.</hi> But their Food from Heaven, their Celeſtial
+<hi>Manna</hi> did plainly ſignifie that <hi>true and living Bread,</hi>
+which came down from Heaven, and which ſtands
+now upon our <hi>Altars</hi> prepared for the Spiritual re<g ref="char:EOLhyphen"/>paſt
+of Devout Receivers.</p>
+            <p>But I muſt not ſtay to enlarge on ſo known a
+Theme.<note place="margin">Univerſa, quae ex <hi>Aegypto</hi> profectio fuit populi, fiebat à Deo, typus &amp; imago pro<g ref="char:EOLhyphen"/>fectionis Ecclec<g ref="char:EOLhyphen"/>ſiae, quae erat futura ex gen<g ref="char:EOLhyphen"/>tibus.</note> 
+               <hi>Irenaeus</hi> tells us, in ſhort, that the coming
+forth of that People out of <hi>Egypt,</hi> and their whole
+Progreſs, was ordain'd by God to be a Type and
+Repreſentation of the Original and Progreſs of the
+Chriſtian Church, which was to be gathered from
+among the <hi>Gentiles.</hi>
+               <note place="margin">Iren. lib. 4. c. 50.</note> But it will concern us to have
+a care, that we do not carry on the <hi>Metaphor</hi> too far,
+and provoke God, as thoſe <hi>Typical</hi> Chriſtians did, by
+Murmurings and Rebellion; For the Author of the
+<hi>Epiſtle</hi> to the <hi>Hebrews</hi> obſerves,<note place="margin">Heb 3. 17, 18.</note> that <hi>the Carkaſes of
+thoſe that ſin'd, fell in the Wilderneſs,</hi> God having ſworn
+<hi>that they ſhould not enter into his Reſt.</hi>
+            </p>
+            <p>Thus have we taken an haſty View of much
+above two Thouſand Years, ſo thick ſet with Figu<g ref="char:EOLhyphen"/>rative
+Indications of the Kingdom of the M<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="22" facs="tcp:51484:13"/>
+that it looks like the very Age of <hi>Chriſt</hi> himſelf, the
+Copy or Pattern of the <hi>Goſpel.</hi> And it was, indeed,
+a kind of Primitive or <hi>Patriarchal</hi> Chriſtendom. So
+that when our Saviour took our Fleſh upon him,
+and, as on <hi>This Day,</hi> appeared upon Earth in order to
+the eſtabliſhment of the <hi>Goſpel</hi> in all its parts, He
+was but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Euſeb. Dem. Evang.</note> as <hi>Euſebius</hi> expreſſeth it, a Reſtorer
+of the moſt Ancient Religion, that which had been
+the Religion of the World before <hi>Moſes.</hi>
+            </p>
+            <p>By this Order and Diſpoſition of things God
+made it manifeſt that the <hi>Law,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Id. ibid.</note> as meerly <hi>Poſitive,</hi>
+was not neceſſary to <hi>Salvation,</hi> that Man could be
+well without it, that it was to be but a long <hi>Paren<g ref="char:EOLhyphen"/>theſis,</hi>
+as it were, between the <hi>firſt</hi> and <hi>ſecond Chriſten<g ref="char:EOLhyphen"/>dom,</hi>
+the Age of the <hi>Patriarchs</hi> and that of the <hi>Meſ<g ref="char:EOLhyphen"/>ſias,</hi>
+ſomething that might have been left out, and
+well ſpared, as for any intrinſecal Excellency of its
+own; a meer <hi>Interim,</hi> an Expedient for the preſent,
+a kind of <hi>Interregnum,</hi> or a Temporary Conſtitution.
+And, indeed, the whole Frame of it look'd forward,
+and was apparently founded on <hi>Relation;</hi> the chief<g ref="char:EOLhyphen"/>eſt
+uſe of it being to point and direct to a <hi>better
+Covenant,</hi> ſomething greater and more deſirable than
+it ſelf. If you abſtract it from that <hi>Typical</hi> and <hi>Re<g ref="char:EOLhyphen"/>lative</hi>
+reſpect, it will ſoon appear much unworthy of
+its Great Author, the moſt <hi>trifling</hi> as well as the moſt
+<hi>burdenſom</hi> Conſtitution that ever was. So that it is
+no wonder that the <hi>Heathens</hi> found it eaſie to pick
+Quarrels with it, and raiſe Objections againſt it of
+that nature. Theſe <hi>Philo,</hi> amongſt others, learnedly
+<pb n="23" facs="tcp:51484:13"/>
+labours to remove, but all in vain, becauſe he him<g ref="char:EOLhyphen"/>ſelf
+was a Stranger to the true uſe and ſignification
+of the <hi>Law.</hi>
+            </p>
+            <p>That it was mutable, not eſtabliſhed as a neceſſary,
+or intended for a perpetual Rule, may be collected
+even from the lateneſs of its Date. Had it been
+otherwiſe, God would not have ſuffer'd the Re<g ref="char:EOLhyphen"/>nowned
+<hi>Patriarchs</hi> of the former <hi>Periods</hi> to have been
+ignorant of it; thoſe Illuſtrious <hi>Heroes</hi> I mean, to
+whoſe Faith and Vertue he himſelf gave ſuch ample
+and honourable Teſtimony. Nor after the <hi>Law</hi>
+given, do we find that the neglect of its poſitive
+Preſcripts was ever objected to thoſe Nations, whoſe
+Sins were yet diſtinctly reckon'd up by the <hi>Prophets</hi>
+that were ſent unto them, as the <hi>Ninevites, Egyptians,
+Chaldaeans, Idumaeans, Moabites,</hi> and ſuch others.</p>
+            <p>The expiration of the Inſtitutions peculiar to the
+Law was not ſo properly their deſtruction or abo<g ref="char:EOLhyphen"/>lition,
+as their accompliſhment, conſummation, and
+attainment of that End for which they were by
+God inſtituted and intended. What was meerly <hi>Sha<g ref="char:EOLhyphen"/>dow,</hi>
+muſt needs become uſeleſs, and vaniſh at the
+appearance of the <hi>Subſtance.</hi> Yet ſeveral Uſages
+and Inſtitutions under the Law were adopted and
+introduc'd into the Church, being by our <hi>Saviour</hi>
+and his <hi>Apoſtles</hi> improv'd and ſublimated into a more
+<hi>Reaſonable Service. Circumciſion</hi> was advanced into
+a better <hi>Sacrament,</hi> more uſeful, more eaſie, more
+extenſive in its Application. The <hi>Sabbath</hi> became
+the <hi>Lords-Day,</hi> on which, as it is the <hi>Seventh</hi> part of
+<pb n="24" facs="tcp:51484:14"/>
+Time, we ſtill commemorate Gods Reſt on the
+<hi>Seventh</hi> Day; and as it is the <hi>Firſt</hi> Day of the Week,
+we celebrate our Redemption from Spiritual <hi>Egyptian</hi>
+Bondage, and the full Aſſurance of a compleat Vi<g ref="char:EOLhyphen"/>ctory
+over Death and the Grave by the Reſurrection
+of our Lord on that Day. This therefore is be<g ref="char:EOLhyphen"/>come
+to us a greater <hi>Feaſt</hi> than the <hi>Jews</hi> could ob<g ref="char:EOLhyphen"/>ſerve
+on their <hi>Sabbath.</hi> The great <hi>Feaſt</hi> of Atone<g ref="char:EOLhyphen"/>ment,
+as well as all other bloody Sacrifices of the
+Law, was finally accompliſhed on the Croſs; and
+the memory of That, the Church ſolemnly recol<g ref="char:EOLhyphen"/>lects
+on <hi>Good-Friday.</hi> But in this Feaſt of the Atone<g ref="char:EOLhyphen"/>ment
+there was ſomething peculiar and of very ex<g ref="char:EOLhyphen"/>traordinary
+ſignification, that of the <hi>Scape Goat,</hi> I
+mean, on which <hi>Aaron</hi> was to lay his hands, and
+confeſs over him all the Iniquities of the Children
+of <hi>Iſrael,</hi>
+               <note place="margin">Lev. 16. 20, 21.</note> 
+               <hi>putting them on the head of the Goat;</hi> and
+then ſend him into the <hi>Wilderneſs.</hi> Thus was Chriſt, on
+whom <hi>God laid the Iniquities of us all,</hi> preſently after
+his Baptiſm, led into the Wilderneſs, carrying with
+him all the Sins that had been confeſs'd by <hi>Jeruſalem</hi>
+and <hi>Judah</hi> at St. <hi>Johns Baptiſm:</hi>
+               <note place="margin">Mark. 1. 12.</note> And thus it is, that
+(not the <hi>Goat,</hi> indeed, but) the <hi>Lamb</hi> of God <hi>takes
+away the Sins of the World,</hi>
+               <note place="margin">John 1. 29.</note> as the <hi>Baptiſt</hi> had decla<g ref="char:EOLhyphen"/>red
+concerning him. I am ſenſible, that the pleaſant
+contemplation of theſe Divine <hi>Myſteries</hi> would eaſily
+tranſport me beyond the proportion of the Time: I
+muſt not therefore inſiſt upon any of the reſt: Not on
+<hi>Aaron</hi> the <hi>High Prieſt,</hi> his <hi>Myſterious Veſtments,</hi> and more
+<hi>Myſterious Conſecration;</hi> nor any of the Oral <hi>Prophecies</hi>
+               <pb n="25" facs="tcp:51484:14"/>
+concerning the great Buſineſs of this Day; thoſe
+immediately from God to <hi>Adam</hi> and <hi>Abraham;</hi> or
+thoſe of <hi>Jacob, Moſes,</hi> and the <hi>Prophets</hi> down to the
+expreſs Teſtimony of St. <hi>John Baptiſt,</hi> the imme<g ref="char:EOLhyphen"/>diate
+Harbinger and Forerunner of the Lord. And
+I am ſure I need not put you in mind of that
+which is daily in your Ears, the melody of the
+<hi>Pſalms,</hi> thoſe lofty inſpired <hi>Hymns,</hi> which are at
+once a very <hi>Hiſtory</hi> of the Birth, Life and Death of
+the <hi>Meſſias,</hi> and alſo the moſt fervent Petitions, and
+devouteſt ſtrains of Thankſgiving, that the Mouth
+of Man can utter or his Heart conceive.</p>
+            <p>Thus <hi>Great,</hi> thus <hi>Holy,</hi> thus <hi>Divine</hi> are the Tri<g ref="char:EOLhyphen"/>umphs
+of this Day. It is the <hi>Birth</hi>-day of GOD,
+the New-birth of the whole World. It is <hi>the Day
+which the Lord hath made,</hi> and which <hi>Abraham ſaw.</hi>
+It is not a Private or a <hi>Modern Feaſt:</hi> We have
+heard already that it is as Ancient as the Fall of
+<hi>Adam:</hi>
+               <note place="margin">2 Tim. 1. 9.</note> Nay, we read of <hi>Grace given in Chriſt Jeſus
+before the World began,</hi>
+               <note place="margin">Epheſ. 3. 11.</note> 
+               <hi>according to the Eternal purpoſe
+which God purpoſed in Chriſt Jeſus our Lord.</hi> That is
+what was from all Eternity decreed, and preſently
+after the beginning of Time happily put in practice.
+For Chriſt is the <hi>Way</hi> and the <hi>Door,</hi> by which both
+the <hi>firſt</hi> and <hi>laſt</hi> Man and all other that come thither
+muſt enter Heaven.<note place="margin">Acts 4. 12.</note> 
+               <hi>Neither is there ſalvation in any
+other: for there is none other Name under Heaven given
+among Men, whereby Adam</hi> or any of his Off-ſpring
+have or can <hi>be ſaved.</hi> God himſelf therefore could
+not apply more ſeaſonable or effectual Comfort to
+<pb n="26" facs="tcp:51484:15"/>
+our drooping Parents, languiſhing and aſtoniſhed
+under the ſhame and horrour of their Fall, than to
+tell them of the <hi>Seed of the Woman,</hi> the wonderful
+Birth of this Day. Thus do <hi>both</hi> our <hi>Teſtaments</hi> run
+one into the other: They exhibit one and the ſame
+thing, even the <hi>Common Salvation,</hi> only under diverſe
+circumſtances ſuitable to the differences of Perſons
+and Time.<note n="(a)" place="margin">Unius igitur &amp; ejuſdem ſubſtantiae ſunt omma. <hi>Iren. adv. Haereſ. lib. 4. cap. 21.</hi>
+               </note> The ſubſtance of
+things is the ſame both in the <hi>Old</hi>
+and the <hi>New Teſtament:</hi>
+               <note n="(b)" place="margin">Non alterum quidem Vetera, alterum qui<g ref="char:EOLhyphen"/>dem proferentem Nova docuit, ſed unum &amp; cundem. <hi>Id. ibid. St. Matt. 13. 52.</hi>
+               </note> It is
+one and the ſame Great <hi>Houſholder</hi>
+that brings forth <hi>things both new
+and old;</hi> as <hi>Irenaeus</hi> applieth, to this Matter, that Pa<g ref="char:EOLhyphen"/>rable
+of our Lord.<note n="(c)" place="margin">Servis quidem &amp; adhuc indiſciplinatis condignam tradens Legem, liberis autem &amp; fide juſtificatis congruentia dans Praecepta, filiis adaperiens ſuam haereditatem, &amp;c. <hi>Ibid.</hi>
+               </note> The ſame
+Lord and Chriſt is exhibited in
+both the Books, diſpenſing to his
+Children and Servants Laws and
+Rules ſuitable to their ſeveral Capacities and Ages.
+Well may we therefore be fill'd both with wonder
+and delight, when we liſten to the raviſhing Harmo<g ref="char:EOLhyphen"/>ny
+of thoſe two Books of God;
+<note n="(d)" place="margin">Quis hanc <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>etitiam divinorum Sacra<g ref="char:EOLhyphen"/>mentorum, cùm ſanae doctrinae luce clareſ<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt, non praeferat univerſis hujus mundi Imperiis, etiam inuſitatâ felicitate pacatis?</note> An Employment and Contem<g ref="char:EOLhyphen"/>plation,
+in the Opinion of St. <hi>Au<g ref="char:EOLhyphen"/>ſtin,</hi>
+to be prefer'd before the
+peaceable enjoyment of the Em<g ref="char:EOLhyphen"/>pire
+of the whole World.<note n="(e)" place="margin">Nonne tanquam duo Seraphim, &amp;c. <hi>St. Aug. ad Jan. Epiſt. 119.</hi>
+               </note> Do
+not the <hi>two Teſtaments,</hi> ſays he, as the two <hi>Seraphims,</hi>
+call and cry to one another, <hi>Holy, Holy, Holy Lord God
+of Sabaoth?</hi> That great and good Man ſeems to
+have wrought himſelf up into a kind of Tranſport
+<pb n="27" facs="tcp:51484:15"/>
+or Ecſtaſie by dwelling long and thinking deeply on
+ſuch things as theſe.</p>
+            <p>From the Conſiderations which I have now
+mentioned, and very many ſuch like, which, in this
+vaſt and inexhauſtible Subject, may be brought to
+illuſtrate one <hi>Teſtament</hi> by the other, I might ob<g ref="char:EOLhyphen"/>ſerve,
+as <hi>Irenaeus</hi> on the ſame occaſion in the place
+forecited, and alſo the 43 Chapter of that Book,
+how juſtly our Saviour requires, that his Diſciples
+and Apoſtles, who went to inſtruct others in the
+Chriſtian Faith, ſhould themſelves be Scribes <hi>well in<g ref="char:EOLhyphen"/>ſtructed
+unto the Kingdom of Heaven,</hi> and, like the
+Great Maſter of the Family, able to bring forth out
+of their Treaſure <hi>things new and old;</hi> that is (ſaith
+the Excellent Writer) <hi>without all diſpute the Old and
+the New Teſtament.</hi>
+               <note place="margin">Ea autem quae de Theſauro pro<g ref="char:EOLhyphen"/>ferunt Nova &amp; Vetera, ſine con<g ref="char:EOLhyphen"/>tradictione duo Teſtamenta dicit.</note> Very pleaſant it is, and a great
+ſatisfaction to conſider, that we are in the ſelf ſame
+way to Heaven, which the firſt and beſt of Men have
+ſo happily trodden; and with this advantage to us,
+that now it is become far more viſible and plain. It
+was only deſcrib'd at a diſtance, ſhewn and pointed
+at to them; but we are brought and led into it, and
+may diſcern the very Footſteps of our Saviour, and
+tread in them too, if it be not our own fault. The
+Guide walks before us, and w cannot miſs either of
+our Way or our Reward at the End of it, if we do
+but follow our Leader, the Victorious <hi>Captain of our
+Salvation.</hi>
+            </p>
+            <p>There was never at any time but one true Reli<g ref="char:EOLhyphen"/>gion
+in the World, and that ſince the Fall has been
+<pb n="28" facs="tcp:51484:16"/>
+no other but Chriſtianity either ſhadowed and cover<g ref="char:EOLhyphen"/>ed,
+or open and like it ſelf. There is no difference
+between <hi>Iſrael of Old,</hi> and the preſent <hi>Iſrael of God,</hi>
+but a few years and a clearer Revelation. They had
+another Law, indeed, but that did them no good,
+nor afforded any true Comfort, but as it was ſweet<g ref="char:EOLhyphen"/>ned
+and improv'd by a saviour. But now <hi>the
+Righteouſneſs of God without the Law is manifeſted, being
+witneſſed by the Law and the Prophets.</hi>
+               <note place="margin">Rom. 3. 21.</note> They were to
+expect <hi>no remiſſion of Sins without ſhedding of Blood:</hi>
+               <note place="margin">Heb. 9. 22. 10. 4. 10.</note>
+               <hi>But it is impoſſible that the blood of Bulls and Goats
+ſhould take away ſin.</hi> Therefore, <hi>we are ſanctified through
+the offering of the Body of Jeſus Chriſt once for all:</hi>
+There is a <hi>Chriſtmaſs</hi> in both the <hi>Teſtaments:</hi> The firſt
+Authors of Mankind, our Fathers, both before and
+after the Flood, could not be happy by any other
+means than we their late Poſterity, or as St. <hi>Peter</hi> ex<g ref="char:EOLhyphen"/>preſſeth
+it, in the firſt General Council, <hi>Through the
+Grace of our Lord Jeſus Chriſt we ſhall be ſaved even as
+they.</hi>
+               <note place="margin">Acts 15. 11.</note> St. <hi>Juſtin Martyr</hi> in his Dialogue <hi>with</hi> Tryphon
+<hi>the Jew</hi> proves, that <hi>Chriſtians</hi> are properly the <hi>Iſrae<g ref="char:EOLhyphen"/>lites,</hi>
+from ſome places in <hi>Iſaiah,</hi> as alſo from the No<g ref="char:EOLhyphen"/>tation
+of the word; A Notion, in the main of it,
+confirmed by our Saviour and his <hi>Apoſtles,</hi> in what
+they teach concerning the Seed of <hi>Abraham,</hi> of
+<hi>Iſraelites indeed,</hi> and the <hi>Circumciſion of the Heart.</hi> I
+have not time to repeat the <hi>Texts.</hi> The Sum is, that
+<hi>Chriſt</hi> was at the bottom, and at the end of all: Our
+claim and theirs is in and through one and the ſame
+<hi>Meſſias,</hi> who tenders Salvation equally to all that will
+<pb n="28" facs="tcp:51484:16"/>
+acceept of it on his own beſt, that is, <hi>Evangelical</hi>
+Terms. The <hi>Patriarchs</hi> and <hi>Prophets</hi> as well as <hi>A<g ref="char:EOLhyphen"/>poſtles</hi>
+and other <hi>Chriſtians,</hi> were ſaved by Faith in
+<hi>Chriſt,</hi> as the Early Martyr<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ignat. Ep. ad Philad. Iren. adv. Haer. lib. 4. cap. 2. 13. 45.</note> 
+               <hi>Ignatius</hi> avers in
+ſeveral places of his <hi>Epiſtles;</hi> and the ſame is at large
+prov'd by <hi>Irenaeus:</hi> And <hi>Clemens</hi> of <hi>Alexandria</hi> in
+his <hi>Sixth Book</hi> of <hi>Stromata</hi> hath the ſame, with
+ſomething more of his own concerning Chriſts de<g ref="char:EOLhyphen"/>ſcending
+into Hell, which I ſhall not offer unto
+you.</p>
+            <p>But thus have we ſeen,<note place="margin">Rom. 15. 4.</note> that <hi>whatſoever things were
+written aforetime, were written for our learning,</hi> that
+when the <hi>Veil</hi> is taken from the Face of <hi>Moſes,</hi> he
+ſhines forth nothing but Grace and <hi>Goſpel:</hi> And this
+<hi>Veil</hi> is now <hi>done away in Chriſt:</hi>
+               <note place="margin">2 Cor. 3. 14.</note> In Chriſt, I ſay, <hi>The
+Almighty God, the Everlaſting Father,</hi>
+               <note place="margin">Eſai. 9. 6.</note> 
+               <hi>the Prince of
+Peace, Alpha and Omega, the Firſt and the Laſt, the Be<g ref="char:EOLhyphen"/>ginning
+and the End, who was, and who is, and who is to
+come;</hi>
+               <note place="margin">Heb. 13. 8.</note> 
+               <hi>the ſame yeſterday, and to day, and for ever; the
+Almighty Child of this Day.</hi> A Day ſo plainly fore<g ref="char:EOLhyphen"/>told
+by the Ancient Prophets, particularly by the
+<hi>Greatly beloved Daniel</hi> Five Hundred years before the
+time,<note place="margin">Dan. 9.</note> that the whole People of the <hi>Jews</hi> were in eager
+Expectation, and even on the gaze for their <hi>Meſ<g ref="char:EOLhyphen"/>ſias</hi>
+at the very time when he appeared in the World.
+And yet, alas! though he ſtood full before them,
+and their Great <hi>Baptiſt</hi> pointed at him, proclaiming
+aloud that it was He; though the Devils falling
+down before him, or flying from him in groans and
+yells, publiſhed who He was, and He himſelf a<g ref="char:EOLhyphen"/>vouch'd
+<pb n="30" facs="tcp:51484:17"/>
+the ſame thing, and teſtified it both by
+Word and Deed; yet did their Sins make the Old
+Curſe ſtick ſo cloſe to them,<note place="margin">Eſai. 6. 9, 10.</note> their <hi>Heart</hi> ſo <hi>fat,</hi> their
+<hi>Ears</hi> ſo <hi>heavy,</hi> and their <hi>Eyes</hi> ſo dim, that they <hi>un<g ref="char:EOLhyphen"/>derſtood</hi>
+not what they heard, nor <hi>perceived</hi> what they
+ſaw. No noiſe of <hi>Prophecies</hi> and Miracles could
+wake them out of their Golden Dreams of a Tem<g ref="char:EOLhyphen"/>poral
+triumphant Prince, with Earthly Crowns and
+Scepters, Dominion and Greatneſs: Such muſt their
+<hi>Meſſias</hi> be and bring, or he is no <hi>Meſſias</hi> for their
+purpoſe.</p>
+            <p>But he is for ours, I hope, even juſt ſo as he did
+and was to come into the World. But then, <hi>What
+manner of perſons ought we to be in all holy converſation
+and godlineſs?</hi>
+               <note place="margin">2 Pet. 3. 11.</note> It was the folly and miſery of Gods
+firſt People the <hi>Jews,</hi> that they truſted to their Privi<g ref="char:EOLhyphen"/>ledge
+of being ſo ſtil'd, they took up with that and
+gloried abundantly in the Temple of the Lord,
+without ever conſidering what great Obligations
+were thereby laid on them for Holineſs and Obedi<g ref="char:EOLhyphen"/>ence.
+A Prince has little reaſon to be ſatisfied with
+the loud Profeſſions of Loyalty and Obedience from
+ſuch as take no care to expreſs thoſe boaſted Vertues
+in any thing but in words: Nor will the <hi>King of
+Kings</hi> accept of the demure Hypocriſie of thoſe,
+who, as the Prophet expreſſeth it, <hi>Come</hi> before him
+as his People <hi>cometh,</hi>
+               <note place="margin">Ezek. 33. 31.</note> and <hi>ſit</hi> and <hi>hear;</hi> but will not
+<hi>do.</hi> It is Mockery and not Religion to have <hi>Lord,
+Lord</hi> in the Mouth, and no fear and reverence of him
+in the Heart. <hi>Judas</hi> could cry <hi>Maſter, Maſter,</hi> when
+<pb n="31" facs="tcp:51484:17"/>
+he kiſs'd his Lord and then betrayed him. <hi>If I be a
+Maſter where is my Fear, ſaith the Lord of Hoſts.</hi> We
+are all ready to claim a ſhare in the Mercies and Bleſ<g ref="char:EOLhyphen"/>ſings
+of <hi>this Day,</hi> ſome intereſt in, and relation to the
+Saviour, that was born in the City of <hi>David,</hi> even
+Chriſt the Lord. We are willing to take our deno<g ref="char:EOLhyphen"/>mination
+from him, at the leaſt; we would be call'd
+Chriſtians, and he muſt be eſteem'd and ſtil'd our
+Lord. But he diſowns and renounces all ſuch Rela<g ref="char:EOLhyphen"/>tion
+and even Acquaintance with thoſe that conform
+not to his Laws.<note place="margin">Luke 6. 46. 13. 27.</note> 
+               <hi>Why call ye me Lord, Lord,</hi> ſays he, <hi>and
+do not the things which I ſay: I know not whence you are;
+depart from me all ye workers of Iniquity.</hi> That peculiar
+People of God found by woful experience, <hi>that he is
+no reſpecter of perſons, but that in every Nation he that
+feareth him and worketh Righteouſneſs is accepted of him.</hi>
+And that it is moſt juſt for God ſo to do, ſeems to be
+the main deſign of that ſo much diſputed and mi<g ref="char:EOLhyphen"/>ſtaken
+Chapter, the Ninth of the Epiſtle to the <hi>Ro<g ref="char:EOLhyphen"/>mans:</hi>
+But, <hi>if God ſpared not the Natural branches,</hi> on
+the like provocations, moſt certainly, he will not
+ſpare us. And, <hi>if they eſcaped not, who refuſed him that
+ſpake on Earth, much more ſhall not we eſcape, if we turn
+away from him that ſpeaketh from Heaven.</hi> The Pro<g ref="char:EOLhyphen"/>miſe
+was made unto <hi>Abraham</hi> and to his Seed, not the
+Natural Seed of his Body, but the Children of his
+Faith: <hi>For they which are of the Faith, the ſame are the
+Children of Abraham;</hi> as we are told in this <hi>Chapter</hi> of
+my <hi>Text.</hi> And if we do the <hi>Works of Abraham,</hi> then
+are we the <hi>Children of Abraham,</hi>
+               <note place="margin">John 8. 39.</note> according to the eſti<g ref="char:EOLhyphen"/>mation
+<pb n="32" facs="tcp:51484:18"/>
+of our Bleſſed Saviour, who beſt could judge
+of ſuch a matter. It is greatly our concern then to
+clear up our Title to the Saviour of <hi>this Day,</hi> which
+can no way be done but by the obſervation of his
+Laws, the imitation of his Practice, and <hi>walking wor<g ref="char:EOLhyphen"/>thy</hi>
+of him, who hath <hi>called us with an holy Calling:</hi>
+This is truly to keep <hi>Chriſtmaſs,</hi> the moſt Chriſtian,
+and to God the moſt acceptable way of celebrating
+the <hi>Nativity</hi> of our Lord. St. <hi>Paul</hi> does not only
+aſſure us,<note place="margin">Rom. 11. 4.</note> that <hi>whatſoever things were written afore<g ref="char:EOLhyphen"/>time
+were written for our learning;</hi> but more particu<g ref="char:EOLhyphen"/>larly,
+that the Puniſhments of the <hi>Jews</hi> were record<g ref="char:EOLhyphen"/>ed,
+<note place="margin">1 Cor. 10. 6.</note> that they might be <hi>Examples</hi> to <hi>us;</hi> nay, that they
+<hi>hapned unto them for examples,</hi>
+               <note place="margin">Ver. 11.</note> 
+               <hi>and are written for our
+admonition.</hi> Therefore that I may ſtill uſe the words
+of that <hi>Apoſtle</hi> of the <hi>Gentiles, Let not us tempt Chriſt,
+as ſome of them alſo tempted and were deſtroyed.</hi>
+               <note place="margin">9.</note>
+            </p>
+            <p>What can we imagine was the meaning of this
+Eternal Conſultation of Heaven, this operoſe Pro<g ref="char:EOLhyphen"/>viſion,
+and almoſt unconceivable Condeſcenſion that
+was made to bring about this wondrous <hi>Day,</hi> big and
+ſwell'd as it is with Miracles of Mercy. We cannot
+conceive, that God, who never needleſly contradicts
+or diſcompoſeth the Order that he himſelf hath
+eſtabliſh'd in Nature, would thus heap Wonder upon
+Wonder for mean and little purpoſes, much leſs for
+any thing unbecoming the Purity and Perfection of
+his Nature. He did not then deſcend from his Eter<g ref="char:EOLhyphen"/>nal
+Throne, and ſtep into the Womb of a poor Vir<g ref="char:EOLhyphen"/>gin,
+become an impotent Infant, and a Man as mi<g ref="char:EOLhyphen"/>ſerable
+<pb n="33" facs="tcp:51484:18"/>
+as Earth and Hell could make him, meerly
+that afterwards, there might ariſe a Generation of
+Men who ſhould be only <hi>ſtil'd Chriſtians.</hi> The Effect
+was to bear more proportion to the Cauſe. The deſign
+of Heaven was upon our Natures, not our Names.
+God propos'd to himſelf the Salvation of our Souls,
+and,<note place="margin">Tit. 2. 14.</note> in order thereunto, <hi>to redeem us from all iniquity, and
+puriſie to himſelf a People zealous of good works.</hi> He took
+our Nature upon him, that we might take his, that is,
+be made <hi>partakers of the Divine Nature</hi> and Eternal
+Glory. For theſe great Purpoſes he liv'd and died;
+for this he preach'd, publiſhed and bequeath'd to the
+World the moſt perfect Precepts, the moſt incompa<g ref="char:EOLhyphen"/>rable
+Example, the moſt glorious Promiſes, the moſt
+dreadful Threatnings, together with all ſort of the
+moſt inviting, convincing, and perſwaſive Arguments,
+that the Wiſdom, Goodneſs and Power of Heaven
+could contrive and furniſh out for the benefit of
+Mankind.</p>
+            <p>May we therefore all ſincerely endeavour to caſt away
+the Works of Darkneſs and put upon us the Armour of
+Light, now in the time of this Mortal Life, in which our
+Saviour came to viſit us in great humility, and let us
+<hi>purifie</hi> our ſelves <hi>even as he is pure,</hi> that in the laſt day
+when he ſhall come again with power and great glory, we
+may be made like unto him in his Eternal and Glorious
+Kingdom, where he now liveth and reigneth with the Father
+and the Holy Ghoſt, to which undivided and ever bleſſed
+Trinity be all Honour and Glory, Power and Deminion,
+now and for ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
